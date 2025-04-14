@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# DetailTableView
-=======
+
 # DetailTableView
 
 [![CI Status](https://img.shields.io/travis/karthikch/DetailTableView.svg?style=flat)](https://travis-ci.org/karthikch/DetailTableView)
@@ -30,4 +28,3 @@ karthikch, karthikkumar410@gmail.com
 ## License
 
 DetailTableView is available under the MIT license. See the LICENSE file for more info.
->>>>>>> 3d29896 (Initial commit)
