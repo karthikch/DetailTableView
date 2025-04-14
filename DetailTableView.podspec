@@ -29,11 +29,12 @@ TODO: Add long description of the pod here.
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
+  s.swift_versions = '4.0'
 
   s.source_files = 'DetailView', 'DetailView/**/*.swift'
   
    s.resource_bundles = {
-     'DetailTableView' => ['DetailTableView/DetailView/*.{lproj,storyboard,xib,png,xcassets}']
+     'DetailTableView' => ['DetailView/**/*.{lproj,storyboard,xib,png,xcassets}']
    }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
