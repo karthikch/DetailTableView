@@ -1,0 +1,22 @@
+{
+  "name": "DetailTableView",
+  "version": "0.1.0",
+  "summary": "A short description of DetailTableView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/karthikch/DetailTableView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "karthikch": "karthikkumar410@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/karthikch/DetailTableView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DetailTableView/Classes/**/*"
+}

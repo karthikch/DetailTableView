@@ -1,0 +1,16 @@
+PODS:
+  - DetailTableView (0.1.0)
+
+DEPENDENCIES:
+  - DetailTableView (from `../`)
+
+EXTERNAL SOURCES:
+  DetailTableView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DetailTableView: b921955d255e4cf92b6817aca602f41e624066be
+
+PODFILE CHECKSUM: 706dcff2bd839d1459698a759b1f1aa7da39ce5a
+
+COCOAPODS: 1.16.2
